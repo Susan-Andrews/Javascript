@@ -1,2 +1,2 @@
-# Javascript_DS
-Freecodecamp Javascript and data structures course
+# Javascript_DS  
+Fcc!  
