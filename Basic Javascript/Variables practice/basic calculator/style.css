@@ -1,0 +1,13 @@
+.main{
+   position: absolute;
+   
+   text-align: center;
+   border: solid #25614e;
+   
+}
+
+button{
+   margin-top: 1rem;
+   margin-right: 2rem;   
+}
+
