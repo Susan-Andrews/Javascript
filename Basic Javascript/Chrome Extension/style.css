@@ -5,6 +5,7 @@ body{
     align-items: center;
     display: flexbox;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-width: 350px;
 }
 
 input{
@@ -25,3 +26,18 @@ button{
     padding:10px;
     border: none;
 } 
+
+ul{
+    margin-top: 20px;
+    list-style-type: none;
+    padding-left: 0;
+    text-align: center;
+
+}
+li{
+    margin-top:5px;
+}
+li a{
+    color: #25614e;
+ } 
+/*shows that anchor tag in li only must show the green colour */
