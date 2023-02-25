@@ -26,6 +26,10 @@ button{
     padding:10px;
     border: none;
 } 
+#delete-btn {
+    background: white;
+    color: #25614e;
+}
 
 ul{
     margin-top: 20px;
