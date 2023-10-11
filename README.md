@@ -1,6 +1,6 @@
 # Javascript_DS  
 Fcc!  
-#Javascript
+# Javascript
 fork
 clone
 modify
@@ -8,4 +8,5 @@ add
 commit
 push
 pull
+done
 
